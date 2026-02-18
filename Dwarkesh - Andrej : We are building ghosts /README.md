@@ -1,6 +1,7 @@
 # Summary of Key Learnings and Viewpoints from Andrej Karpathy
 
 **Interview with Dwarkesh Patel**
+Youtube link : https://youtu.be/lXUZvyajciY?si=TJbGSXwcCFEk_p0J
 
 ### 1. The "Decade of Agents"
 Karpathy pushes back against the hype that autonomous agents are imminent, predicting instead that this will be the "decade of agents."
